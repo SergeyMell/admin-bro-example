@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  database:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: devpassword
+      MYSQL_DATABASE: admin-bro-example
+    ports:
+      - "3308:3306"
