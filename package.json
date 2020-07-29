@@ -31,6 +31,7 @@
     "@nestjs/typeorm": "^7.1.0",
     "admin-bro": "^2.9.0",
     "admin-bro-expressjs": "^2.1.1",
+    "admin-bro-typeorm": "^0.1.6-alpha.9",
     "express": "^4.17.1",
     "express-formidable": "^1.2.0",
     "mysql": "^2.18.1",
