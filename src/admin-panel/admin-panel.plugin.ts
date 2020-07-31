@@ -1,5 +1,5 @@
 import { INestApplication } from '@nestjs/common';
-import {Database, Resource} from 'admin-bro-typeorm';
+import { Database, Resource } from 'admin-bro-typeorm';
 
 import AdminBro from 'admin-bro';
 
